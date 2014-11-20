@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CharacterWeapoms.models.character.Character">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAEAAAIAAAQAQIAAAAAAAABAgAAAAAA=</HashCode>
+      <FileName>models\character\Character.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CharacterWeapoms.Sword">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>models\weapons\Sword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWeapoms.WarHammer">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>models\weapons\WarHammer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWeapoms.Weapon">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAgAAAAAAAAAQAAAAEAAAAAAAAAACAAAA=</HashCode>
+      <FileName>models\weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CharacterWeapoms.SpaceMarine">
+    <Position X="6.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>models\character\SpaceMarine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWeapoms.Troll">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>models\character\Troll.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWeapoms.Knight">
+    <Position X="11.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>models\character\Knight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWeapoms.HandToHandWeapon">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HandToHandWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWeapoms.ProjectileWeapon">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectileWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CharacterWeapoms.BFG">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BFG.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CharacterWeapoms.IWeapon">
+    <Position X="1.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>models\weapons\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="CharacterWeapoms.IDamagable">
+    <Position X="8.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>IDamagable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
